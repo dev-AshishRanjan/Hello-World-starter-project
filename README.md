@@ -32,7 +32,7 @@
 # **_Hacktoberfest 2023_**
 
 Hacktoberfest has came with it's 10 season to promote Open-Source Contribution.
-**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca).It's also up for Hacktoberfest.**
+**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca). It's also up for Hacktoberfest.**
 
 ## What to Contribute (To Dos)
 
@@ -80,18 +80,17 @@ git checkout -b my-new-branch
 4. _Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
 
 5. _ADD_ and _COMMIT_
+  - Add your changes
 
-- Add your changes
+  ```markdown
+  git add .
+  ```
 
-```markdown
-git add .
-```
+  - Commit your changes.
 
-- Commit your changes.
-
-```markdown
-git commit -m "Relevant message"
-```
+  ```markdown
+  git commit -m "Relevant message"
+  ```
 
 6. _Push_ : After all changes are commited, push your changes to your remote repo.
 
