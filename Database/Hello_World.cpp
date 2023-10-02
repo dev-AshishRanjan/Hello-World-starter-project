@@ -1,4 +1,6 @@
-//g++ hw.cpp -o cpp_hw 
+// LANG: C++
+// AUTHOR: Jayesh Jain
+// GITHUB: https://github.com/Jayesh-JainX
 #include<iostream>
 using namespace std;
 
