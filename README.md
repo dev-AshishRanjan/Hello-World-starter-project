@@ -37,52 +37,67 @@ Hacktoberfest has came with it's 10 season to promote Open-Source Contribution
 
 Steps to contribute to this project:
 
-1.*ADD your `Hello World` code in **any language** in `Database/` directory*
-  - Basic format to add code. You have to add your own file first in `./Database/` and write the hello world code in that file only. The file can be named anything.
-  ```py
-    # LANG: Python
-    # AUTHOR: Kumar Ashish Ranjan
-    # GITHUB: https://github.com/LucasMarioza
-    print("Hello World!")
-  ```
-  here first 3 lines are commented out. The rest is `Hello_World` code
-2.*ADD your information in `CONTRIBUTORS.md` file*
-  - Copy-paste this below code and modify it with your own details
-  ```markdown
-    ### Name: Kumar Ashish Ranjan
-    - Place: Bihar, India
-    - Academic: CSE Undergraduate at college_name.
-    - GitHub: [dev-AshishRanjan](https://github.com/dev-AshishRanjan)
-  ```
+1. _ADD your `Hello World` code in **any language** in `Database/` directory_
+
+- Basic format to add code. You have to add your own file first in `./Database/` and write the hello world code in that file only. The file can be named anything.here first 3 lines are commented out. The rest is `Hello_World` code
+
+```py
+  # LANG: Python
+  # AUTHOR: Kumar Ashish Ranjan
+  # GITHUB: https://github.com/LucasMarioza
+  print("Hello World!")
+```
+
+2. _ADD your information in `CONTRIBUTORS.md` file_
+
+- Copy-paste this below code and modify it with your own details
+
+```markdown
+### Name: Kumar Ashish Ranjan
+
+- Place: Bihar, India
+- Academic: CSE Undergraduate at college_name.
+- GitHub: [dev-AshishRanjan](https://github.com/dev-AshishRanjan)
+```
 
 ### Process of Contribution
 
-1._Fork_ : Fork this GitHub Repo to your own github account
-2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
+1. _Fork_ : Fork this GitHub Repo to your own github account
+2. _Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
+
 ```terminal
 git clone https://github.com/dev-AshishRanjan/Hacktoberfest2023.git
 ```
-3.Create a _new Branch_
+
+3. Create a _new Branch_
+
 ```markdown
 git checkout -b my-new-branch
 ```
-4._Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
 
-5._ADD_ and _COMMIT_
+4. _Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
+
+5. _ADD_ and _COMMIT_
+
 - Add your changes
+
 ```markdown
 git add .
 ```
+
 - Commit your changes.
 
 ```markdown
 git commit -m "Relevant message"
 ```
-5._Push_ : After all changes are commited, push your changes to your remote repo.
+
+6. _Push_ : After all changes are commited, push your changes to your remote repo.
+
 ```markdown
 git push origin my-new-branch
 ```
-6._PR_ : After pushing changes, raise a PR from your remote repo to this repo's dev branch
+
+7. _PR_ : After pushing changes, raise a PR from your remote repo to this repo's dev branch
 
 > If you are new to git and github, I will suggest you first go through this :
 >
