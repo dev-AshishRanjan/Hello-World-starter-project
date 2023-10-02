@@ -46,7 +46,7 @@ Steps to contribute to this project:
 ```py
   # LANG: Python
   # AUTHOR: Kumar Ashish Ranjan
-  # GITHUB: https://github.com/LucasMarioza
+  # GITHUB: https://github.com/dev-AshishRanjan
   print("Hello World!")
 ```
 
