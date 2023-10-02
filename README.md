@@ -31,10 +31,12 @@
 
 # **_Hacktoberfest 2023_**
 
-Hacktoberfest has came with it's 10 season to promote Open-Source Contribution
+Hacktoberfest has came with it's 10 season to promote Open-Source Contribution.
+**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca).It's also up for Hacktoberfest.**
 
-## How to Contribute
+## What to Contribute (To Dos)
 
+These are the changes you can make.
 Steps to contribute to this project:
 
 1. _ADD your `Hello World` code in **any language** in `Database/` directory_
@@ -107,3 +109,23 @@ git push origin my-new-branch
 > If you are new to open-source, then you can go through : https://www.youtube.com/watch?v=yzeVMecydCE
 
 ---
+
+## Avoid Conflicts : Syncing your fork
+
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
+
+```terminal
+git remote add upstream https://github.com/dev-AshishRanjan/Hacktoberfest2023
+```
+
+You can verify that the new remote has been added by typing
+
+```terminal
+git remote -v
+```
+
+To pull any new changes from your parent repo simply run
+
+```terminal
+git merge upstream/dev
+```
