@@ -17,3 +17,14 @@
 - Place: Pune, Maharashtra, India
 - Academic: CE Undergraduate at BVP.
 - GitHub: [Jayesh Jain](https://github.com/Jayesh-JainX)
+
+### Name: Rohit Deb Choudhury
+
+- Place: Hailakandi, Assam, India
+- Academic: Agricultural Engineering Undergraduate at AUS.
+- GitHub: [Rohit Deb Choudhury](https://github.com/rohitdchoudhury1)
+
+
+  
+
+  
