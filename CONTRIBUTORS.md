@@ -24,7 +24,8 @@
 - Academic: Agricultural Engineering Undergraduate at AUS.
 - GitHub: [Rohit Deb Choudhury](https://github.com/rohitdchoudhury1)
 
+### Name : NAbil Mufti
 
-  
-
-  
+- Place : Padang , West Sumatra, Indonesia
+- Academic : SMKN 4 PAYAKUMBUH
+- GitHub: [Nabil Mufti](https://github.com/ca-kraa)
