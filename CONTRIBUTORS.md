@@ -29,3 +29,9 @@
 - Place : Padang , West Sumatra, Indonesia
 - Academic : SMKN 4 PAYAKUMBUH
 - GitHub: [Nabil Mufti](https://github.com/ca-kraa)
+
+### Name: Divya
+
+- Place: Bihar, India
+- Academic: CSE Undergraduate at RTU
+- GitHub: [Divya4879](https://github.com/Divya4879)
