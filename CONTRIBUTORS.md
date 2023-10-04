@@ -35,3 +35,9 @@
 - Place: Bihar, India
 - Academic: CSE Undergraduate at RTU
 - GitHub: [Divya4879](https://github.com/Divya4879)
+
+### Name: Nishant Gaurav
+
+- Place: Ranchi, Jharkhand
+- Academic: CSIT Undergraduate at ITER
+- GitHub: [Imbiber](https://github.com/Imbiber)
