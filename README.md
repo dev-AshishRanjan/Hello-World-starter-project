@@ -1,29 +1,29 @@
-![Hacktoberfest2023](https://socialify.git.ci/dev-AshishRanjan/Hacktoberfest2023/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+![hacktoberfest2023](https://socialify.git.ci/dev-AshishRanjan/hacktoberfest2023/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
 <div align="center">
  <p>
    
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FHacktoberfest2023%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Hacktoberfest2023)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2Fhacktoberfest2023%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/hacktoberfest2023)
+![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/hacktoberfest2023)
+![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/hacktoberfest2023)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/hacktoberfest2023)
   
-![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Hacktoberfest2023)
+![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/hacktoberfest2023)
 
-![Github](https://img.shields.io/github/license/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Hacktoberfest2023)
+![Github](https://img.shields.io/github/license/dev-AshishRanjan/hacktoberfest2023)
+![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/hacktoberfest2023)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/hacktoberfest2023)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/hacktoberfest2023)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/hacktoberfest2023)
 
  </p>
 </div>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+Welcome+to+Hacktoberfest2023+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻;💡+Get+Your+First+Pull+Request+💡;🙏🏻+Thanks+for+Contributing+🙏🏻"
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+Welcome+to+hacktoberfest2023+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻;💡+Get+Your+First+Pull+Request+💡;🙏🏻+Thanks+for+Contributing+🙏🏻"
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
@@ -68,7 +68,7 @@ Steps to contribute to this project:
 2. _Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
 
 ```terminal
-git clone https://github.com/dev-AshishRanjan/Hacktoberfest2023.git
+git clone https://github.com/dev-AshishRanjan/hacktoberfest2023.git
 ```
 
 3. Create a _new Branch_
@@ -80,17 +80,18 @@ git checkout -b my-new-branch
 4. _Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
 
 5. _ADD_ and _COMMIT_
-  - Add your changes
 
-  ```markdown
-  git add .
-  ```
+- Add your changes
 
-  - Commit your changes.
+```markdown
+git add .
+```
 
-  ```markdown
-  git commit -m "Relevant message"
-  ```
+- Commit your changes.
+
+```markdown
+git commit -m "Relevant message"
+```
 
 6. _Push_ : After all changes are commited, push your changes to your remote repo.
 
@@ -114,7 +115,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/dev-AshishRanjan/Hacktoberfest2023
+git remote add upstream https://github.com/dev-AshishRanjan/hacktoberfest2023
 ```
 
 You can verify that the new remote has been added by typing
