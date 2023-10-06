@@ -60,3 +60,9 @@
 - Place: Kathmandu, Nepal
 - Academic: Computer Engineering Graduate at NCIT
 - GitHub: [susanhsrestha](https://github.com/susanhsrestha)
+
+### Name: Simran Bhalode
+
+- Place: Bavaria, Germany
+- Academic: CSE Undergraduate at Hochschule für Technik, Wirtschaft und Kultur Leipzig.
+- GitHub: [lukasb1b](https://github.com/lukasb1b)
