@@ -47,3 +47,10 @@
 - Place: Indore, Madhya Pradesh, India
 - Academic: CSE Undergraduate at Chameli devi group of Institutions
 - GitHub: [HardikPanwar](https://github.com/HardikPanwar)
+
+
+### Name: Simran Bhalode
+
+- Place: Indore, India
+- Academic: CSE Undergraduate at Chameli Devi Group of Institutions.
+- GitHub: [s-bhalode](https://github.com/s-bhalode)
