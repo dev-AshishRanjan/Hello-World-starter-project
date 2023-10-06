@@ -54,3 +54,9 @@
 - Place: Indore, India
 - Academic: CSE Undergraduate at Chameli Devi Group of Institutions.
 - GitHub: [s-bhalode](https://github.com/s-bhalode)
+
+### Name: Susan Shrestha
+
+- Place: Kathmandu, Nepal
+- Academic: Computer Engineering Graduate at NCIT
+- GitHub: [susanhsrestha](https://github.com/susanhsrestha)
