@@ -61,7 +61,7 @@
 - Academic: Computer Engineering Graduate at NCIT
 - GitHub: [susanhsrestha](https://github.com/susanhsrestha)
 
-### Name: Simran Bhalode
+### Name: Lukas
 
 - Place: Bavaria, Germany
 - Academic: CSE Undergraduate at Hochschule für Technik, Wirtschaft und Kultur Leipzig.
