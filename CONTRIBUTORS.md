@@ -41,3 +41,10 @@
 - Place: Ranchi, Jharkhand
 - Academic: CSIT Undergraduate at ITER
 - GitHub: [Imbiber](https://github.com/Imbiber)
+
+
+### Name: Simran Bhalode
+
+- Place: Indore, India
+- Academic: CSE Undergraduate at Chameli Devi Group of Institutions.
+- GitHub: [s-bhalode](https://github.com/s-bhalode)
