@@ -66,3 +66,9 @@
 - Place: Bavaria, Germany
 - Academic: CSE Undergraduate at Hochschule für Technik, Wirtschaft und Kultur Leipzig.
 - GitHub: [lukasb1b](https://github.com/lukasb1b)
+
+### Name: Muhammad Asad Ur Rehman
+
+- Place: Lahore, Pakistan
+- Academic: Bscs Undergraduate at UMT.
+- GitHub: [MAsad92](https://github.com/MAsad92)
