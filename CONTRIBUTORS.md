@@ -42,7 +42,7 @@
 - Academic: CSIT Undergraduate at ITER
 - GitHub: [Imbiber](https://github.com/Imbiber)
 
-### Name: Hardik Panwr
+### Name: Hardik Panwar
 
 - Place: Indore, Madhya Pradesh, India
 - Academic: CSE Undergraduate at Chameli devi group of Institutions
