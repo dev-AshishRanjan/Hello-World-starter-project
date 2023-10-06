@@ -41,3 +41,9 @@
 - Place: Ranchi, Jharkhand
 - Academic: CSIT Undergraduate at ITER
 - GitHub: [Imbiber](https://github.com/Imbiber)
+
+### Name: Hardik Panwr
+
+- Place: Indore, Madhya Pradesh, India
+- Academic: CSE Undergraduate at Chameli devi group of Institutions
+- GitHub: [HardikPanwar](https://github.com/HardikPanwar)
