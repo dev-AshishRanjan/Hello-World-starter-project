@@ -73,8 +73,16 @@
 - Academic: Bscs Undergraduate at UMT.
 - GitHub: [MAsad92](https://github.com/MAsad92)
 
+
+### Name: Ruturaj Ghumkar
+
+- Place: pune, India
+- Academic: IT engg DIT pune
+- GitHub: [ruturaj-gh](https://github.com/ruturaj-gh)
+
 ### Name: Mitesh Rathod
 
 - Place: Gujarat, India
 - Academic: CSE Undergraduate at SCET.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
+
