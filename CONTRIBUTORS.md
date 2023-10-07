@@ -79,3 +79,10 @@
 - Place: pune, India
 - Academic: IT engg DIT pune
 - GitHub: [ruturaj-gh](https://github.com/ruturaj-gh)
+
+### Name: Mitesh Rathod
+
+- Place: Gujarat, India
+- Academic: CSE Undergraduate at SCET.
+- GitHub: [Mitesh2020](https://github.com/Mitesh2020)
+
