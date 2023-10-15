@@ -86,3 +86,9 @@
 - Academic: CSE Undergraduate at SCET.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
 
+### Name: Abhinav Prajapati
+
+- Place: Dehradun, India
+- Academic: CSE Undergraduate at GEHU.
+- GitHub: [Abhinav89908](https://github.com/abhinav89908)
+
