@@ -92,3 +92,9 @@
 - Academic: CSE Undergraduate at GEHU.
 - GitHub: [Abhinav89908](https://github.com/abhinav89908)
 
+### Name: Amrit Regmi
+
+- Place: Morang, Nepal
+- Academic: Computer Engineering Undergraduate at MBMAN
+- GitHub: [amritregmi26](https://github.com/amritregmi26)
+
