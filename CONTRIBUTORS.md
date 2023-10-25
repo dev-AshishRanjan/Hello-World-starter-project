@@ -92,6 +92,12 @@
 - Academic: CSE Undergraduate at GEHU.
 - GitHub: [Abhinav89908](https://github.com/abhinav89908)
 
+### Name: Ridhika Joshi
+
+- Place: Kolkata, India
+- Academic: CSE Undergraduate at AOT.
+- GitHub: [RidhikaJoshi](https://github.com/RidhikaJoshi)
+
 ### Name: Amrit Regmi
 
 - Place: Morang, Nepal
